@@ -109,3 +109,6 @@
 # https://getbacklinks.ng/campus-advertising/kebbi-state-university-campus-marketing
 # https://getbacklinks.ng/campus-advertising/yobe-state-university-campus-marketing
 # https://getbacklinks.ng/campus-advertising/plateau-state-university-campus-marketing
+# https://getbacklinks.ng/academy/digital-marketing-course-package
+# https://getbacklinks.ng/academy/seo-course-package
+# https://getbacklinks.ng/academy/link-building-course
